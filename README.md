@@ -61,22 +61,12 @@ By translating intricate technical challenges into actionable insights, I contri
 
 ---
 
-<h3 align="left">🔥 LeetCode Stats</h3>
-
  <a href="https://leetcode.com/u/priyankrawat7/" target="_blank">
   <img
-    src="https://leetcard.jacoblin.cool/priyankrawat7?theme=nord&font=Rokkitt&ext=heatmap"
+    src="https://leetcard.jacoblin.cool/priyankrawat7?theme=dark&font=Acme&ext=contest"
     alt="LeetCode Profile"
   />
 </a>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyankrawat&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
