@@ -155,7 +155,14 @@ Throughout my career, I have sharpened my skills in software development and pro
 
  <a href="https://leetcode.com/u/priyankrawat7/" target="_blank">
   <img
-    src="![LeetCode Stats](https://leetcard.jacoblin.cool/priyankrawat7?theme=nord&font=Rokkitt&ext=heatmap)"
+    src="https://leetcard.jacoblin.cool/priyankrawat7?theme=nord&font=Rokkitt&ext=heatmap"
+    alt="LeetCode Profile"
+  />
+</a>
+
+ <a href="https://leetcode.com/u/LovinsonDieujuste/" target="_blank">
+  <img
+    src="https://leetcard.jacoblin.cool/LovinsonDieujuste?theme=dark&font=Acme&ext=contest"
     alt="LeetCode Profile"
   />
 </a>
