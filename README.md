@@ -12,7 +12,7 @@ I embrace a growth mindset, understanding that we can all learn from one another
 By translating intricate technical challenges into actionable insights, I contribute to impactful tech innovations that drive progress.
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wisesofthemall&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wisesofthemall" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wisesofthemall&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="priyankrawat" /> </p>
 
 - 🔭 I’m currently working on cross-platform apps, developer tools, and cool UI experiments
 - 🌱 I’m currently diving deeper into system design and computer graphics
