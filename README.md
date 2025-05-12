@@ -88,6 +88,12 @@ By translating intricate technical challenges into actionable insights, I contri
 
 
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=priyankrawat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="priyankrawat" /></p>
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankrawat&theme=holi-theme&hide_border=false" alt="priyankrawat" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankrawat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="priyankrawat" /></p>
+     <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=priyankrawat&theme=react-dark" alt="priyankrawat" /></p>
+
+     
 
 ![github-user-contribution](https://github.com/user-attachments/assets/0c3f5997-39bf-4428-bcd3-9162deab83e5)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
@@ -227,10 +233,6 @@ By translating intricate technical challenges into actionable insights, I contri
 </a>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="wisesofthemall" /></p>
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Wisesofthemall&theme=holi-theme&hide_border=false" alt="wisesofthemall" /></p>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="wisesofthemall" /></p>
-     <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Wisesofthemall&theme=react-dark" alt="wisesofthemall" /></p>
 
   
 
