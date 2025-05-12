@@ -64,7 +64,7 @@ By translating intricate technical challenges into actionable insights, I contri
 <h3 align="center"> 💻 LeetCode </h3>
 
  <a href="https://leetcode.com/u/priyankrawat7/" target="_blank">
-  <img align="center"
+  <img align="center" width="880" height="192"
     src="https://leetcard.jacoblin.cool/priyankrawat7?theme=light&font=Big%20Shoulders%20Text&ext=heatmap"
     alt="LeetCode Profile"
   />
