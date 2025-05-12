@@ -62,8 +62,13 @@ By translating intricate technical challenges into actionable insights, I contri
 ---
 
  <a href="https://leetcode.com/u/priyankrawat7/" target="_blank">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/priyankrawat7?theme=light&font=Big%20Shoulders%20Text&ext=heatmap)
+   
+</a>
+
+ <a href="https://leetcode.com/u/priyankrawat7/" target="_blank">
   <img
-    src="https://leetcard.jacoblin.cool/priyankrawat7?theme=dark&font=Acme&ext=contest"
+    src="https://leetcard.jacoblin.cool/priyankrawat7?theme=light&font=Big%20Shoulders%20Text&ext=heatmap"
     alt="LeetCode Profile"
   />
 </a>
