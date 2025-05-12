@@ -17,7 +17,6 @@ By translating intricate technical challenges into actionable insights, I contri
 - 🔭 I’m currently working on cross-platform apps, developer tools, and cool UI experiments
 - 🌱 I’m currently diving deeper into system design and computer graphics
 - 📄 Know more about me: [Resume](https://priyankrawat.netlify.app/)
-- 📫 Reach me at: **priyankrawat7@gmail.com**
 - 💻 LeetCode: [priyankrawat7](https://leetcode.com/priyankrawat7/)
 - 🧠 GitHub: [priyankrawat](https://github.com/priyankrawat)
 
