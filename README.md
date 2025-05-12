@@ -89,6 +89,8 @@ By translating intricate technical challenges into actionable insights, I contri
 
 
 
+![github-user-contribution](https://github.com/user-attachments/assets/0c3f5997-39bf-4428-bcd3-9162deab83e5)
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
 
 <h1 align="center">Hi 👋, I'm Lovinson Dieujuste</h1>
@@ -234,5 +236,3 @@ By translating intricate technical challenges into actionable insights, I contri
 
   </div>
 
-![github-user-contribution](https://github.com/user-attachments/assets/0c3f5997-39bf-4428-bcd3-9162deab83e5)
-<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
